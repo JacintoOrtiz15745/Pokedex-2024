@@ -95,5 +95,6 @@ const styles = StyleSheet.create({
   },
   statValue: {
     marginRight: 20,
+    width: 40,
   },
 });
